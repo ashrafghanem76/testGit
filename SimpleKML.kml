@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Placemark>
+    <name>Amman</name>
+    <description>This is amman city the capital of the hashemit kingdom of jordan.</description>
+    <Point>
+      <coordinates>35.94591247,31.68295921</coordinates>
+    </Point>
+  </Placemark>
+</kml>
